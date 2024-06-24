@@ -1,8 +1,8 @@
-Aspiring dev
+Ruby on rails dev
 
-Encyclopaedia of useless trivia
+Encyclopaedia of useless trivia and collector of random skills  
 
-Occasional origamist and photographer
+Occasional <a href="https://www.behance.net/thousandfold">origamist</a> and <a href="https://plutonianshores.pixieset.com/plutonianshores">photographer</a>
 
 Known by up to 2 people for decoding the cypher from the Alquimista do Acre
 
